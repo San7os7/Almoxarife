@@ -1,4 +1,4 @@
-# Dicionário para armazenar os produtos e quantidades
+
 estoque = {
     "Parafuso": 50,
     "Prego": 100,
